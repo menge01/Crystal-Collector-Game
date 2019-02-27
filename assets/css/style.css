@@ -1,9 +1,6 @@
 body {
     
-    background: #5D4157;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #A8CABA, #5D4157);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #A8CABA, #5D4157); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    ;
+   background-image: url(../images/crystalcollector.jpeg);
     background-size: cover;
 }
 .container {
@@ -18,5 +15,5 @@ body {
 
 }
 .instructions{
-    color: rgb(8, 8, 240);
+    color: rgb(139, 240, 8);
 }
