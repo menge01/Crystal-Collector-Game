@@ -1,7 +1,7 @@
 # Unit-4-game1
 The objective of this assignment was to build an interactive game where the HTML is dynamically updated using the jQuery library.
 
-         #2-Instructions
+         #1-Instructions
  .At the start of the game you will be given a random number
  .Below there are 4 crystals. Once you click on a crystal you will add a specific amount of points to your total score
  .The way to win the game is by matching your total score to a random number. You will lose the game if your total score goes above that random number.
