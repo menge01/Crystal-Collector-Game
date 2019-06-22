@@ -11,6 +11,6 @@ The objective of this assignment was to build an interactive game where the HTML
 
 
 Built With
-HTML5 ,CSS3 ,Bootstrap,JavaScript,jQuery,JavaScript Library
+HTML5<br /> CSS3<br /> Bootstrap<br />JavaScript<br />jQuery<br />JavaScript Library
 
 ![Capture](https://user-images.githubusercontent.com/39536292/56620240-4b3a8f80-65f6-11e9-9752-c9a55bb249c2.GIF)
